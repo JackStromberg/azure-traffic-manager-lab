@@ -1,6 +1,6 @@
 Deploy a Web App
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FFastTrackForAzure%2Fmaster%2Fartifacts%2Farm-template-network%2Ftm-lab%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJackStromberg%2Fazure-traffic-manager-lab%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
