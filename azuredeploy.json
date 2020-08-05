@@ -71,7 +71,7 @@
         "APIVersion": "2016-03-01",
         "ASPName": "[concat('tm-web-plan-',parameters('environmentName'),'-')]",
         "WebAppName": "[concat('tm-web-app-',parameters('environmentName'),'-',uniqueString(resourceGroup().id),'-')]",
-        "webSitePackage": "https://github.com/Azure/FastTrackForAzure/raw/master/artifacts/arm-template-network/tm-lab/website.zip"
+        "webSitePackage": "https://github.com/JackStromberg/azure-traffic-manager-lab/raw/master/website.zip"
     },
     "resources": [
         {
