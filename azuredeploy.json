@@ -46,11 +46,11 @@
         "environmentSettings": {
             "mac": {
                 "regions": [
-                    "West US",
+                    "Central US",
                     "West Europe"
                 ],
                 "regionCodes": [
-                    "westus",
+                    "centralus",
                     "westeurope"
                 ]
             },
